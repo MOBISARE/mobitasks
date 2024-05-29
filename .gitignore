@@ -1,0 +1,16 @@
+# Gitignore
+
+# vscode
+.vscode/
+
+# idea
+.idea/
+
+# maven
+target/
+
+# npm
+node_modules/
+.angular/
+dist/
+
